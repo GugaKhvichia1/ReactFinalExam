@@ -1,0 +1,60 @@
+.home-content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;    
+    margin: 20px;
+}
+
+.intro {
+    display: flex;
+    align-items: center;
+}
+
+.profile-pic {
+    width: 500px;
+    height: auto; 
+    margin-right: 20px;
+    border-radius: 5%;
+}
+
+.achievements-hobbies {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.achievements,
+.hobbies {
+    margin-bottom: 30px;
+    max-width: 400px;
+    text-align: center;
+    flex-grow: 1;
+}
+
+h3 {
+    color: #b784a7;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+ul li {
+    margin-bottom: 10px;
+}
+
+h2 {
+    color: #333;
+}
+
+p {
+    color: #666;
+}
+
+.highlight {
+    color: #b784a7;
+}
+  
+  

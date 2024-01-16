@@ -1,0 +1,18 @@
+.disclaimer {
+    background-color: #ffeeba;
+    border: 1px solid #ffc107;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.projects-content {
+    margin: 20px;
+}
+
+ul {
+    margin: 20px 0;
+}
+
+li {
+    margin-bottom: 15px;
+}

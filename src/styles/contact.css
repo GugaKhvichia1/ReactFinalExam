@@ -1,0 +1,24 @@
+.contact-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.contact-container h2 {
+    color: #333;
+}
+
+.contact-container p {
+    margin-bottom: 20px;
+    color: #555;
+}
+
+.contact-container ul {
+    list-style: none;
+    padding: 0;
+}
+
+.contact-container li {
+    margin-bottom: 10px;
+    color: #777;
+}
